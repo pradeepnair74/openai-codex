@@ -1,0 +1,2 @@
+server : https://codex-dn8t.onrender.com
+client : https://openai-codex-seven.vercel.app/
